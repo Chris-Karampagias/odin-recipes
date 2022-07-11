@@ -1,0 +1,22 @@
+body {
+    font-family:'Segoe UI', Tahoma,Verdana, sans-serif;
+}
+
+body{
+    background-color:rgb(114, 167, 224);
+}
+
+body h1,
+body h2{
+    text-align: center;
+}
+
+.main-list{
+    text-align: center;
+    font-size: 22px;
+}
+
+.main-list li a{
+    color: black;
+    font-weight:100;
+}
